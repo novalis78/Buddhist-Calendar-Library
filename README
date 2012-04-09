@@ -1,0 +1,23 @@
+Buddhist Calendar Library
+
+This C# library implements a Calendar Class for traditional Theravada Buddhist Dates based on an astronomical lunar algorithm. 
+
+Traditionally, the Buddhist Era (BE) starts 543 BC. New year begins every Vesakh full moon. The year has 12 lunar months. Each month is divided into two fortnights (sukka- and kanhapakkhe, the light and dark week). Days are enumerated from 1 to the end of each fortnight (14/15th).
+
+The Buddhist equivalent date for the Gregorian date:
+
+2005 - 01 - 29 CE
+
+will thus be
+
+2548 - 02 - 1 - 04 BE
+
+...meaning: in the year 2548 after the Blessed Ones Parinibbana, in the (second) lunar month, in the dark fortnight of the 4th day.
+
+More detailed explanation of the traditional Buddhist Calendar can be found here.
+
+The library can be included in any .NET project for privat and commercial use. License included. 
+
+The download comes with a sample program and source code.
+
+BuddhistCalendarLibrary (this program is based on the .NET Framework 1.1 library. If it is not installed on your machine already, make sure to download and install it prior to running this utility. You can download the .NET Framework from here (dotnetfx.exe) or here (Windows update service)
